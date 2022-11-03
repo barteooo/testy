@@ -19,7 +19,7 @@ n = 4
 print("rozmiar: ",n)
 
 for i in range (1, n+1):
-    print( (n-i) * "-", end = "")
+    print( (n-i) * "-", end = "XD")
     print(i * "+")
 
 # Zad 2
