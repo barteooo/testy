@@ -1,4 +1,4 @@
-#Zad 1
+#Zaad 1
 
 for i in range(15):
     print(i)
